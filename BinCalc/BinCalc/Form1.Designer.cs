@@ -145,9 +145,9 @@
             // 
             this.checkBox8.Appearance = System.Windows.Forms.Appearance.Button;
             this.checkBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox8.Location = new System.Drawing.Point(557, 73);
+            this.checkBox8.Location = new System.Drawing.Point(535, 44);
             this.checkBox8.Name = "checkBox8";
-            this.checkBox8.Size = new System.Drawing.Size(56, 49);
+            this.checkBox8.Size = new System.Drawing.Size(78, 78);
             this.checkBox8.TabIndex = 23;
             this.checkBox8.Text = "1";
             this.checkBox8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
